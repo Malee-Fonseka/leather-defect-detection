@@ -2,3 +2,5 @@
 /segmentation_results
 /segmentation_results_v2
 /lowlight
+__pycache__
+.venv
